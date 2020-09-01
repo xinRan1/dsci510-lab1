@@ -17,10 +17,10 @@ this scipt in command line in your computer.
 For example, in Jupyter notebook (within Mac system), we can write:
     import sys  
     sys.path.insert(0, '/Users/...')  ## 'the location of our py file'
-    import lab1
+    ;then, write: import lab1
     
 In terminal of Mac, write:
     cd /Users/.. (file's location here)
-    python lab1.py
+    ;then, do: python lab1.py
 
 
