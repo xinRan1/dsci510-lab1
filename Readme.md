@@ -13,3 +13,14 @@ Method 2: you can download this repository as a zip folder in your
 computer. In this folder, you can find out a python script, 'lab1.py'. 
 Run the Python interpreter in script mode with 'lab1.py'. Or, you can excecute 
 this scipt in command line in your computer.  
+
+For example, in Jupyter notebook (within Mac system), we can write:
+    import sys  
+    sys.path.insert(0, '/Users/...')  ## 'the location of our py file'
+    import lab1
+    
+In terminal of Mac, write:
+    cd /Users/.. (file's location here)
+    python lab1.py
+
+
