@@ -16,8 +16,8 @@ this scipt in command line in your computer.
 
 For example, in Jupyter notebook (within Mac system), we can write:
     import sys  
-    sys.path.insert(0, '/Users/...')  # 'the location of our py file'
-    ;then, write: import lab1
+    sys.path.insert(0, '/Users/...')  # the content rounded by single quotes should
+    be the location of our py file;then, write: import lab1
     
 In terminal of Mac, write:
     cd /Users/.. (file's location here)
